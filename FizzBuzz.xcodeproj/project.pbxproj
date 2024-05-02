@@ -14,6 +14,7 @@
 		618C8C202BC58A4500CD556E /* FizzBuzzTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618C8C1F2BC58A4500CD556E /* FizzBuzzTests.swift */; };
 		618C8C2A2BC58A4500CD556E /* FizzBuzzUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618C8C292BC58A4500CD556E /* FizzBuzzUITests.swift */; };
 		618C8C2C2BC58A4500CD556E /* FizzBuzzUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618C8C2B2BC58A4500CD556E /* FizzBuzzUITestsLaunchTests.swift */; };
+		618C8C392BC58B5600CD556E /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 618C8C382BC58B5600CD556E /* FizzBuzz.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		618C8C252BC58A4500CD556E /* FizzBuzzUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FizzBuzzUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		618C8C292BC58A4500CD556E /* FizzBuzzUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzzUITests.swift; sourceTree = "<group>"; };
 		618C8C2B2BC58A4500CD556E /* FizzBuzzUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzzUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		618C8C382BC58B5600CD556E /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				618C8C102BC58A4300CD556E /* ContentView.swift */,
 				618C8C122BC58A4500CD556E /* Assets.xcassets */,
 				618C8C142BC58A4500CD556E /* Preview Content */,
+				618C8C382BC58B5600CD556E /* FizzBuzz.swift */,
 			);
 			path = FizzBuzz;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				618C8C112BC58A4300CD556E /* ContentView.swift in Sources */,
 				618C8C0F2BC58A4300CD556E /* FizzBuzzApp.swift in Sources */,
+				618C8C392BC58B5600CD556E /* FizzBuzz.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
